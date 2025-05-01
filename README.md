@@ -2,7 +2,7 @@
 
 This project analyzes the impact of lifestyle and demographic variables on anxiety and depression scores using Python-based data science techniques.
 
-##📎 Appendix
+📎 Appendix
 This repository supports Appendix A of the final IDS201 report (Torrens University Australia, 2025).
 For further questions or academic use, please cite appropriately.
 ## 📂 Project Structure
