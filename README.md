@@ -23,7 +23,7 @@ If citing or referencing this work for educational or research purposes, please 
 
 ## 📂 Project Structure
 
-- `/data`: Contains the cleaned dataset used for analysis.
+- `/data`: Contains the ORIGINAL dataset used for analysis.
 - `/plots`: Stores the visualizations generated during the analysis.
 - `analysis.py`: Main script executing data preprocessing, exploratory data analysis (EDA), regression modeling, and visualization.
 - `requirements.txt`: Lists the Python packages required to run the analysis.​
