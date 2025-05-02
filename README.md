@@ -4,11 +4,20 @@ This repository supports the final report for **IDS201: Introduction to Data Sci
 
 ---
 
+## 📚 Citation and Attribution
+Please credit the original dataset creator and the author of the analysis:
+
+Dataset Author: Kumar, A. (2025). *Anxiety and Depression Mental Health Factors*. Kaggle. https://www.kaggle.com/datasets/ak0212/anxiety-and-depression-mental-health-factors
+
+Analysis Author: Solano, D. A. (May 7, 2025). Torrens University Australia. IDS201: Introduction to Data Science – Assessment 3.
+
+---
+
 ## 📎 Appendix Reference
 
 This repository corresponds to **Appendix A** of the submitted report, which includes the complete source code, reproducible figures, and data preparation steps. It ensures methodological transparency for academic review and supports reproducibility of findings.
 
-If citing or referencing this work for educational or research purposes, please credit the dataset creator (see below) and the author of the analysis.
+If citing or referencing this work for educational or research purposes, please credit the dataset creator and the author of the analysis (see Citation and Attribution above).
 
 ---
 
@@ -34,9 +43,3 @@ Using regression and correlation analysis, the project identifies key predictors
 - Sleep quality and social support emerged as major protective factors.
 
 ---
-
-## 🛠️ Running the Analysis
-
-```bash
-pip install -r requirements.txt
-python analysis.py
