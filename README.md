@@ -44,7 +44,7 @@ Using regression and correlation analysis, the project identifies key predictors
 
 ---
 
-### ©️ License
+## ©️ License
 
 This project is released under the MIT License for educational transparency and personal exploration.
 
